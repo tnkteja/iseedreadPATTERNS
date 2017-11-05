@@ -5,3 +5,4 @@
 
 ## References
 1. _https://sourcemaking.com/design_patterns/creational_patterns_
+2. _https://www.tutorialspoint.com/design_pattern/transfer_object_pattern.htm_
